@@ -6,7 +6,7 @@ www.ringlayer.net  - www.ringlayer.com
 Robotic - Digital Electronic - Machine Learning 
 
 Android application for tapper device that I've developed. 
-Used to steal some privated data from victim device.
+Used to steal some private data from victim's android device.
 
 
                 /*
