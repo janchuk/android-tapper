@@ -23,4 +23,4 @@ Used to steal some private data from victim's android device.
 
                  try su root (unimplemented at:  //r00t._TestSuBinary(); )
                 
-Developed using old android studio at my old pc. Sorry...
+Developed using old android studio on my old pc
